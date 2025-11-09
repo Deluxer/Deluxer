@@ -15,7 +15,7 @@ I combine strong backend expertise with a deep curiosity for **AI orchestration*
 [![Website Badge](https://img.shields.io/badge/🌐%20Website-FFFF00?style=for-the-badge)](https://mireino.com)
 [![Twitter Badge](https://img.shields.io/badge/GeraDeluxer-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/GeraDeluxer)
 [![Email Badge](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gerardoangeln@gmail.com)
-[![Tiktok Badge](https://img.shields.io/badge/Tiktok-000000?logo=tiktok&logoColor=white&style=for-the-badge)](mailto:gerardoangeln@gmail.com)
+[![Tiktok Badge](https://img.shields.io/badge/Tiktok-000000?logo=tiktok&logoColor=white&style=for-the-badge)](https://www.tiktok.com/@geradeluxer)
 
 </div>
 
