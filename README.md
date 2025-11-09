@@ -23,8 +23,8 @@ I combine strong backend expertise with a deep curiosity for **AI orchestration*
 
 | Project                                                          | Description                                                                                                                                    | Stack                                         |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
-| [**DyBloom**](https://dybloom.com)                               | AI-powered **voice assistant** built with Next.js, LiveKit, Python, and OpenAI. Enables real-time natural conversations and smart automations. | Next.js, Python, OpenAI, ElevenLabs, Deepgram |
-| [**MiReino**](https://mireino.com)                               | **RAG-based chatbot** with LangChain.js, Vercel AI SDK, and Tavily. Includes **OAuth login with Google** and vector-based retrieval.           | LangChain.js, OpenAI, Vercel AI SDK           |
+| [**Dybloom**](https://dybloom.com)                               | AI-powered **voice assistant** built with Next.js, LiveKit, Python, and OpenAI. Enables real-time natural conversations and smart automations. | Next.js, Python, OpenAI, ElevenLabs, Deepgram |
+| [**Mireino**](https://mireino.com)                               | **RAG-based chatbot** with LangChain.js, Vercel AI SDK, and Tavily. Includes **OAuth login with Google** and vector-based retrieval.           | LangChain.js, OpenAI, Vercel AI SDK           |
 | [**Oliva Multi-Agent System**](https://github.com/Deluxer/oliva) | Modular **multi-agent orchestration framework** for chat and voice workflows. Supports **LangGraph** and **external API integrations**.        | LangGraph, LlamaIndex, TypeScript             |
 | **EleganteFlor**                                                 | Full-stack **e-commerce platform** built from scratch with payment gateways and CRM integration.                                               | Node.js, Symfony, MongoDB, PrestaShop         |
 
@@ -34,22 +34,18 @@ I combine strong backend expertise with a deep curiosity for **AI orchestration*
 I’m truly proud to see my open-source project **[Oliva Multi-Agent System](https://github.com/Deluxer/oliva)** recognized and shared by leading AI infrastructure companies — **LangChain**, **Qdrant**, and **Superlinked**.  
 Their support and mentions reinforce Oliva’s mission to enable modular, multi-agent orchestration for chat and voice workflows.
 
-<p align="center">
-  <img src="assets/langchain_oliva.png" alt="LangChain Oliva" width="800">
-</p>
+<table>
+<tr>
+<td width="40%" valign="center" align="center">
 
-<div align="center">
+<img src="assets/langchain_oliva.png" alt="LangChain Oliva" width="400">
 
-[![LangChain Badge](https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white&style=for-the-badge)](https://x.com/LangChainAI/status/1903476882060050548)
-[![Qdrant Badge](https://img.shields.io/badge/Qdrant-FF6B00?logo=qdrant&logoColor=white&style=for-the-badge)](https://x.com/qdrant_engine/status/1905938017690276339)
-[![Superlinked Badge](https://img.shields.io/badge/Superlinked-0072CE?logo=superlinked&logoColor=white&style=for-the-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7315766703248822272/)
-
-</div>
-
+</td>
+<td width="60%" valign="top">
 
 📢 **Posts & Mentions**
 
-- 🧠 **LangChain** highlighted Oliva’s multi-agent approach  
+- 🧠 **LangChain** highlighted Oliva's multi-agent approach  
   🔗 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7309242578883727360/)  
   🔗 [Tweet](https://x.com/LangChainAI/status/1903476882060050548)
 
@@ -59,8 +55,16 @@ Their support and mentions reinforce Oliva’s mission to enable modular, multi-
 
 - 💬 **Daniel Svonava**, CEO of Superlinked, shared Oliva with his network  
   🔗 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7315766703248822272/)
--    **Superlinked** shared Oliva with his network  
+- **Superlinked** shared Oliva with his network  
   🔗 [LinkedIn Post](https://www.linkedin.com/posts/superlinked_an-ai-voice-assistant-powered-by-superlinked-activity-7305579691891933185-UBUc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA_NsaYBhdrdf3mF3h7HkRVZB55BE6GGPSw)
+
+[![LangChain Badge](https://img.shields.io/badge/LangChain-000000?logo=chainlink&logoColor=white&style=for-the-badge)](https://x.com/LangChainAI/status/1903476882060050548)
+[![Qdrant Badge](https://img.shields.io/badge/Qdrant-FF6B00?logo=qdrant&logoColor=white&style=for-the-badge)](https://x.com/qdrant_engine/status/1905938017690276339)
+[![Superlinked Badge](https://img.shields.io/badge/Superlinked-0072CE?logo=superlinked&logoColor=white&style=for-the-badge)](https://www.linkedin.com/feed/update/urn:li:activity:7315766703248822272/)
+
+</td>
+</tr>
+</table>
 
 
 
@@ -77,9 +81,6 @@ Their support and mentions reinforce Oliva’s mission to enable modular, multi-
 | **Cloud & Infrastructure** | AWS (Lambda, EC2, API Gateway, SQS, SNS), Terraform, Docker      |
 | **Databases**              | MongoDB, PostgreSQL, MySQL, DocumentDB                           |
 | **AI / Voice Tech**        | OpenAI, LlamaIndex, ElevenLabs, Deepgram, LiveKit, Vercel AI SDK |
-| **CI/CD & DevOps**         | GitHub Actions, Jenkins, Terraform, Docker                       |
-| **Testing**                | Jest, PHPUnit                                                    |
+| **CI/CD & DevOps**         | GitHub Actions, Terraform, Docker                       |
 | **Other**                  | REST APIs, JWT Auth, Swagger, OAuth                              |
-
----
 
