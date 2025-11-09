@@ -19,7 +19,7 @@ I combine strong backend expertise with a deep curiosity for **AI orchestration*
 
 </div>
 
-# Projects
+## My contributions
 
 | Project                                                          | Description                                                                                                                                    | Stack                                         |
 | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
@@ -38,7 +38,7 @@ Their support and mentions reinforce Oliva’s mission to enable modular, multi-
 <tr>
 <td width="40%" valign="center" align="center">
 
-<img src="assets/langchain_oliva.png" alt="LangChain Oliva" width="400">
+<img src="assets/langchain_oliva.png" alt="LangChain Oliva" width="380">
 
 </td>
 <td width="60%" valign="top">
@@ -72,15 +72,12 @@ Their support and mentions reinforce Oliva’s mission to enable modular, multi-
 
 ---
 
-# Tech Stack
+### Tech Stack
 
-| Category                   | Technologies                                                     |
-| -------------------------- | ---------------------------------------------------------------- |
-| **Languages**              | JavaScript (ES6+), TypeScript, Python, PHP                       |
-| **Frameworks & Tools**     | NestJS, Next.js, Express, React, Symfony, LangChain, LangGraph   |
-| **Cloud & Infrastructure** | AWS (Lambda, EC2, API Gateway, SQS, SNS), Terraform, Docker      |
-| **Databases**              | MongoDB, PostgreSQL, MySQL, DocumentDB                           |
-| **AI / Voice Tech**        | OpenAI, LlamaIndex, ElevenLabs, Deepgram, LiveKit, Vercel AI SDK |
-| **CI/CD & DevOps**         | GitHub Actions, Terraform, Docker                       |
-| **Other**                  | REST APIs, JWT Auth, Swagger, OAuth                              |
+**Frameworks & Tools**   - NestJS, Next.js, Express, React, Symfony, LangChain, LangGraph  
+**Cloud & Infrastructure** - AWS (Lambda, EC2, API Gateway, SQS, SNS), Terraform, Docker  
+**Databases**              - MongoDB, PostgreSQL, MySQL, DocumentDB  
+**AI / Voice Tech**        - OpenAI, LlamaIndex, ElevenLabs, Deepgram, LiveKit, Vercel AI SDK  
+**CI/CD & DevOps**         - GitHub Actions, Terraform, Docker  
+**Other**                   - REST APIs, JWT Auth, Swagger, OAuth
 
